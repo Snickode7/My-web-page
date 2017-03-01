@@ -1,0 +1,12 @@
+.galleryHead {
+    text-align: center;
+    padding-top: 10px;
+}
+
+span {
+    border-bottom: solid 6px lightblue;
+}
+
+.galleryMainCaption {
+    font-size: 15px;
+}
